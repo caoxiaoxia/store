@@ -1,0 +1,6 @@
+俞敏洪,admin,男,23,北京市昌平区沙河北大桥桥底下,F:\\picture\\俞敏洪.jpg
+李彦宏,root,女,27,北京市顺义区金装北大桥桥底下,F:\\picture\\李彦宏.jpg
+丁磊,123456,男,53,北京市西城区沙河北大桥桥底下,D:\\picture\\丁磊.jpg
+马化腾,admin,男,23,北京市昌平区沙河北大桥桥底下,D:\\picture\\马化腾.jpg
+杨幂,admin,男,23,北京市房山区沙河北大桥桥底下,D:\\picture\\杨幂.jpg
+邓超,admin,男,23,北京市昌平区沙河北大桥桥底下,D:\\picture\\邓超.jpg1,1,1,1,1,F:\测试技术开发\python\day06\Zuoye\picture\邓超.jpg11,1,1,2,,F:\测试技术开发\python\day06\Zuoye\picture\杨幂.jpg
